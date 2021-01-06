@@ -39,7 +39,7 @@
     "start:android": "npm run build && concurrently -r 'npm run watch' 'react-native run-android'"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "native-base": "2.2.0",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.0",
